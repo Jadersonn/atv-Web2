@@ -1,0 +1,13 @@
+﻿Os repositórios não foram editados, pois somente fazem as conexões com o banco de dados.
+"ul" e "li" não foram utilizados por nao utilizarmos nenhuma lista no código.
+
+Não foi necessário ajuste nos links pois somente referenciam navegação entre as pastas neste momento da aplicação.
+
+A utilização de Alt, foi padronizado para ser empregado sempre no final das tags, para facilitar a leitura, sempre descrevendo o contexto da ação ou da imagem de forma mais clara possivel.
+
+Foi utilizado principalmente nas imagens e onde poderia existir duvida na compreensão de quem fosse ler o código(nas Areas de cadastro, imagens, areas onde poderia existir duvida sobre a aplicação, etc).
+
+A unica imagem utilizada como botao foi a da Logo do Ifms presente no menu da aplicação, foi colocado para ir para a pagina principal, só foi necessário adicionar ela entra um link e ajustar sua largura e comprimento.
+
+As tabelas foram ajustas para estarem padronizadas e com tudo preenchido, seus cabeçalhos agora estão todos corretamente identificados e ajustados.
+
